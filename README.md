@@ -7,6 +7,9 @@
 - Argument validation
 - Simple command-line interface
 
+![QR Code Generator Cover](public/cover.png)
+
+
 ## Requirements
 
 - Python 3.8 or newer
